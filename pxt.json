@@ -1,0 +1,31 @@
+{
+    "name": "Salvo",
+    "description": "Originally a pencil-and-paper game, Salvo! is the precursor to Milton Bradley’s Battleship. In this version for MakeCode Arcade, up to four players can participate, with any combination of human and computer players. ",
+    "dependencies": {
+        "device": "*",
+        "pxt-arcade-info-screens": "github:robo-technical-group/pxt-arcade-info-screens#v1.0.9",
+        "controller": "*",
+        "animation": "*",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.1.0"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "custom.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v0.8.11",
+        "tag": "v0.8.11",
+        "commits": "https://github.com/Microsoft/pxt-arcade/commits/4fd9b141be74c8d0598da91bb0e9a62e81cd039b",
+        "target": "1.0.16",
+        "pxt": "5.6.8",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
