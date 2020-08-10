@@ -1,0 +1,7 @@
+contact_links:
+  - name: Community Support Forum
+    url: https://web.sl132.workers.dev
+    about: Please ask and answer questions here.
+  - name: Bug Tracker
+    url: https://sysdl132.myjetbrains.com
+    about: Register an account here and place the bugs.
